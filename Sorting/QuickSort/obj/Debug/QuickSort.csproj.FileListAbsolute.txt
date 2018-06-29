@@ -1,0 +1,6 @@
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\QuickSort\obj\Debug\QuickSort.pdb

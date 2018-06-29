@@ -1,0 +1,6 @@
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp\bin\Debug\DijkstraCSharp.exe.config
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp\bin\Debug\DijkstraCSharp.exe
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp\bin\Debug\DijkstraCSharp.pdb
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp\obj\Debug\DijkstraCSharp.csprojResolveAssemblyReference.cache
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp\obj\Debug\DijkstraCSharp.exe
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp\obj\Debug\DijkstraCSharp.pdb

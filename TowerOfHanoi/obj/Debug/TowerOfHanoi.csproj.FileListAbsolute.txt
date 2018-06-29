@@ -1,0 +1,6 @@
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\TowerOfHanoi\obj\Debug\TowerOfHanoi.csprojResolveAssemblyReference.cache
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb

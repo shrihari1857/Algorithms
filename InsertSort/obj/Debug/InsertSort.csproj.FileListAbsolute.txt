@@ -1,0 +1,6 @@
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\InsertSort\bin\Debug\InsertSort.exe.config
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\InsertSort\bin\Debug\InsertSort.exe
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\InsertSort\bin\Debug\InsertSort.pdb
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\InsertSort\obj\Debug\InsertSort.exe
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\InsertSort\obj\Debug\InsertSort.pdb
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\InsertSort\obj\Debug\InsertSort.csprojResolveAssemblyReference.cache

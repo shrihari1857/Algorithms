@@ -1,0 +1,7 @@
+C:\Users\shallur\source\repos\ApproxJobScheduling\bin\Debug\ApproxJobScheduling.exe.config
+C:\Users\shallur\source\repos\ApproxJobScheduling\bin\Debug\ApproxJobScheduling.exe
+C:\Users\shallur\source\repos\ApproxJobScheduling\bin\Debug\ApproxJobScheduling.pdb
+C:\Users\shallur\source\repos\ApproxJobScheduling\obj\Debug\ApproxJobScheduling.csprojResolveAssemblyReference.cache
+C:\Users\shallur\source\repos\ApproxJobScheduling\obj\Debug\ApproxJobScheduling.csproj.CoreCompileInputs.cache
+C:\Users\shallur\source\repos\ApproxJobScheduling\obj\Debug\ApproxJobScheduling.exe
+C:\Users\shallur\source\repos\ApproxJobScheduling\obj\Debug\ApproxJobScheduling.pdb

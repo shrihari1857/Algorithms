@@ -1,0 +1,8 @@
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp2\bin\Debug\DijkstraCSharp2.exe.config
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp2\bin\Debug\DijkstraCSharp2.exe
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp2\bin\Debug\DijkstraCSharp2.pdb
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp2\bin\Debug\GraphTheory.exe
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp2\bin\Debug\GraphTheory.pdb
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp2\obj\Debug\DijkstraCSharp2.csprojResolveAssemblyReference.cache
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp2\obj\Debug\DijkstraCSharp2.exe
+C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp2\obj\Debug\DijkstraCSharp2.pdb

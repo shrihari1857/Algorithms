@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Strings\Tries\obj\Debug\Tries.csprojResolveAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Strings\Tries\obj\Debug\Tries.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Strings\Tries\bin\Debug\Tries.exe.config
+C:\GitHub\Algorithms\Algorithms\Strings\Tries\bin\Debug\Tries.exe
+C:\GitHub\Algorithms\Algorithms\Strings\Tries\bin\Debug\Tries.pdb
+C:\GitHub\Algorithms\Algorithms\Strings\Tries\obj\Debug\Tries.exe
+C:\GitHub\Algorithms\Algorithms\Strings\Tries\obj\Debug\Tries.pdb

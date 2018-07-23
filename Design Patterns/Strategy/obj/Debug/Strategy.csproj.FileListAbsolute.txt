@@ -1,0 +1,7 @@
+C:\GitHub\Design Patterns\Strategy\bin\Debug\Strategy.exe.config
+C:\GitHub\Design Patterns\Strategy\bin\Debug\Strategy.exe
+C:\GitHub\Design Patterns\Strategy\bin\Debug\Strategy.pdb
+C:\GitHub\Design Patterns\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+C:\GitHub\Design Patterns\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\GitHub\Design Patterns\Strategy\obj\Debug\Strategy.exe
+C:\GitHub\Design Patterns\Strategy\obj\Debug\Strategy.pdb

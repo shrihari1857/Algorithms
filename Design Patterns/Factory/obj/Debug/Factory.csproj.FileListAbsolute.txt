@@ -1,0 +1,7 @@
+C:\GitHub\Design Patterns\Factory\bin\Debug\Factory.exe.config
+C:\GitHub\Design Patterns\Factory\bin\Debug\Factory.exe
+C:\GitHub\Design Patterns\Factory\bin\Debug\Factory.pdb
+C:\GitHub\Design Patterns\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\GitHub\Design Patterns\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\GitHub\Design Patterns\Factory\obj\Debug\Factory.exe
+C:\GitHub\Design Patterns\Factory\obj\Debug\Factory.pdb

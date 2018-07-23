@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Decorater\bin\Debug\Decorater.exe.config
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Decorater\bin\Debug\Decorater.exe
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Decorater\bin\Debug\Decorater.pdb
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Decorater\obj\Debug\Decorater.csprojResolveAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Decorater\obj\Debug\Decorater.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Decorater\obj\Debug\Decorater.exe
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Decorater\obj\Debug\Decorater.pdb

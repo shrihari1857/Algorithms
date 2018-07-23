@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Observer\bin\Debug\Observer.exe.config
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Observer\bin\Debug\Observer.exe
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Observer\bin\Debug\Observer.pdb
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Observer\obj\Debug\Observer.exe
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Observer\obj\Debug\Observer.pdb

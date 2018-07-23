@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Command\bin\Debug\Command.exe.config
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Command\bin\Debug\Command.exe
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Command\bin\Debug\Command.pdb
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Command\obj\Debug\Command.exe
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Command\obj\Debug\Command.pdb

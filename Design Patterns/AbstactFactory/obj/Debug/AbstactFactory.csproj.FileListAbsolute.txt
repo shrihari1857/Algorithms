@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Design Patterns\AbstactFactory\bin\Debug\AbstactFactory.exe.config
+C:\GitHub\Algorithms\Algorithms\Design Patterns\AbstactFactory\bin\Debug\AbstactFactory.exe
+C:\GitHub\Algorithms\Algorithms\Design Patterns\AbstactFactory\bin\Debug\AbstactFactory.pdb
+C:\GitHub\Algorithms\Algorithms\Design Patterns\AbstactFactory\obj\Debug\AbstactFactory.csprojResolveAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Design Patterns\AbstactFactory\obj\Debug\AbstactFactory.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Design Patterns\AbstactFactory\obj\Debug\AbstactFactory.exe
+C:\GitHub\Algorithms\Algorithms\Design Patterns\AbstactFactory\obj\Debug\AbstactFactory.pdb

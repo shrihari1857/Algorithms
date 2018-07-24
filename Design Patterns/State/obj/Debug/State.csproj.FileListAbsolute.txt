@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Design Patterns\State\bin\Debug\State.exe.config
+C:\GitHub\Algorithms\Algorithms\Design Patterns\State\bin\Debug\State.exe
+C:\GitHub\Algorithms\Algorithms\Design Patterns\State\bin\Debug\State.pdb
+C:\GitHub\Algorithms\Algorithms\Design Patterns\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Design Patterns\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Design Patterns\State\obj\Debug\State.exe
+C:\GitHub\Algorithms\Algorithms\Design Patterns\State\obj\Debug\State.pdb

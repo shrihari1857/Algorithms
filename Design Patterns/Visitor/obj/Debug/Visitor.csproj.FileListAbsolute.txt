@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Visitor\bin\Debug\Visitor.exe.config
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Visitor\bin\Debug\Visitor.exe
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Visitor\bin\Debug\Visitor.pdb
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Visitor\obj\Debug\Visitor.exe
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Visitor\obj\Debug\Visitor.pdb

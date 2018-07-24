@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Iterator\bin\Debug\Iterator.exe.config
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Iterator\bin\Debug\Iterator.exe
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Iterator\bin\Debug\Iterator.pdb
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Iterator\obj\Debug\Iterator.exe
+C:\GitHub\Algorithms\Algorithms\Design Patterns\Iterator\obj\Debug\Iterator.pdb

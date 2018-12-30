@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\MoveZeroes\obj\Debug\MoveZeroes.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\MoveZeroes\obj\Debug\MoveZeroes.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\MoveZeroes\bin\Debug\MoveZeroes.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\MoveZeroes\bin\Debug\MoveZeroes.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\MoveZeroes\bin\Debug\MoveZeroes.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\MoveZeroes\obj\Debug\MoveZeroes.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\MoveZeroes\obj\Debug\MoveZeroes.pdb

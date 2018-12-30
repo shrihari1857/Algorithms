@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Data Indexing\BTree\bin\Debug\BTree.exe.config
+C:\GitHub\Algorithms\Algorithms\Data Indexing\BTree\bin\Debug\BTree.exe
+C:\GitHub\Algorithms\Algorithms\Data Indexing\BTree\bin\Debug\BTree.pdb
+C:\GitHub\Algorithms\Algorithms\Data Indexing\BTree\obj\Debug\BTree.csprojResolveAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Data Indexing\BTree\obj\Debug\BTree.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Data Indexing\BTree\obj\Debug\BTree.exe
+C:\GitHub\Algorithms\Algorithms\Data Indexing\BTree\obj\Debug\BTree.pdb

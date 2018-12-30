@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Trees\SymmetricTree\bin\Debug\SymmetricTree.exe.config
+C:\GitHub\Algorithms\Algorithms\Trees\SymmetricTree\bin\Debug\SymmetricTree.exe
+C:\GitHub\Algorithms\Algorithms\Trees\SymmetricTree\bin\Debug\SymmetricTree.pdb
+C:\GitHub\Algorithms\Algorithms\Trees\SymmetricTree\obj\Debug\SymmetricTree.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Trees\SymmetricTree\obj\Debug\SymmetricTree.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Trees\SymmetricTree\obj\Debug\SymmetricTree.exe
+C:\GitHub\Algorithms\Algorithms\Trees\SymmetricTree\obj\Debug\SymmetricTree.pdb

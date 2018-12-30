@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\LinkedList\AddNumbers\bin\Debug\AddNumbers.exe.config
+C:\GitHub\Algorithms\Algorithms\LinkedList\AddNumbers\bin\Debug\AddNumbers.exe
+C:\GitHub\Algorithms\Algorithms\LinkedList\AddNumbers\bin\Debug\AddNumbers.pdb
+C:\GitHub\Algorithms\Algorithms\LinkedList\AddNumbers\obj\Debug\AddNumbers.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\LinkedList\AddNumbers\obj\Debug\AddNumbers.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\LinkedList\AddNumbers\obj\Debug\AddNumbers.exe
+C:\GitHub\Algorithms\Algorithms\LinkedList\AddNumbers\obj\Debug\AddNumbers.pdb

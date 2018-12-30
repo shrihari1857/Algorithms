@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Strings\ReverseInteger\bin\Debug\ReverseInteger.exe.config
+C:\GitHub\Algorithms\Algorithms\Strings\ReverseInteger\bin\Debug\ReverseInteger.exe
+C:\GitHub\Algorithms\Algorithms\Strings\ReverseInteger\bin\Debug\ReverseInteger.pdb
+C:\GitHub\Algorithms\Algorithms\Strings\ReverseInteger\obj\Debug\ReverseInteger.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Strings\ReverseInteger\obj\Debug\ReverseInteger.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Strings\ReverseInteger\obj\Debug\ReverseInteger.exe
+C:\GitHub\Algorithms\Algorithms\Strings\ReverseInteger\obj\Debug\ReverseInteger.pdb

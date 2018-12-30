@@ -1,0 +1,6 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\ContainsDuplicate\bin\Debug\ContainsDuplicate.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\ContainsDuplicate\bin\Debug\ContainsDuplicate.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\ContainsDuplicate\bin\Debug\ContainsDuplicate.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\ContainsDuplicate\obj\Debug\ContainsDuplicate.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\ContainsDuplicate\obj\Debug\ContainsDuplicate.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\ContainsDuplicate\obj\Debug\ContainsDuplicate.pdb

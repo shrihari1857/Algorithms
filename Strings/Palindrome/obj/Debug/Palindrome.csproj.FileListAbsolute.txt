@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Strings\Palindrome\bin\Debug\Palindrome.exe.config
+C:\GitHub\Algorithms\Algorithms\Strings\Palindrome\bin\Debug\Palindrome.exe
+C:\GitHub\Algorithms\Algorithms\Strings\Palindrome\bin\Debug\Palindrome.pdb
+C:\GitHub\Algorithms\Algorithms\Strings\Palindrome\obj\Debug\Palindrome.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Strings\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Strings\Palindrome\obj\Debug\Palindrome.exe
+C:\GitHub\Algorithms\Algorithms\Strings\Palindrome\obj\Debug\Palindrome.pdb

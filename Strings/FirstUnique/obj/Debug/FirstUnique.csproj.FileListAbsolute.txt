@@ -1,0 +1,6 @@
+C:\GitHub\Algorithms\Algorithms\Strings\FirstUnique\bin\Debug\FirstUnique.exe.config
+C:\GitHub\Algorithms\Algorithms\Strings\FirstUnique\bin\Debug\FirstUnique.exe
+C:\GitHub\Algorithms\Algorithms\Strings\FirstUnique\bin\Debug\FirstUnique.pdb
+C:\GitHub\Algorithms\Algorithms\Strings\FirstUnique\obj\Debug\FirstUnique.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Strings\FirstUnique\obj\Debug\FirstUnique.exe
+C:\GitHub\Algorithms\Algorithms\Strings\FirstUnique\obj\Debug\FirstUnique.pdb

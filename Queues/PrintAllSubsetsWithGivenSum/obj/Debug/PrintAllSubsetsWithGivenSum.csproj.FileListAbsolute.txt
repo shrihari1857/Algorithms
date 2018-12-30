@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Queues\PrintAllSubsetsWithGivenSum\bin\Debug\PrintAllSubsetsWithGivenSum.exe.config
+C:\GitHub\Algorithms\Algorithms\Queues\PrintAllSubsetsWithGivenSum\bin\Debug\PrintAllSubsetsWithGivenSum.exe
+C:\GitHub\Algorithms\Algorithms\Queues\PrintAllSubsetsWithGivenSum\bin\Debug\PrintAllSubsetsWithGivenSum.pdb
+C:\GitHub\Algorithms\Algorithms\Queues\PrintAllSubsetsWithGivenSum\obj\Debug\PrintAllSubsetsWithGivenSum.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Queues\PrintAllSubsetsWithGivenSum\obj\Debug\PrintAllSubsetsWithGivenSum.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Queues\PrintAllSubsetsWithGivenSum\obj\Debug\PrintAllSubsetsWithGivenSum.exe
+C:\GitHub\Algorithms\Algorithms\Queues\PrintAllSubsetsWithGivenSum\obj\Debug\PrintAllSubsetsWithGivenSum.pdb

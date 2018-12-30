@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Queues\MovingAverageDataStream\bin\Debug\MovingAverageDataStream.exe.config
+C:\GitHub\Algorithms\Algorithms\Queues\MovingAverageDataStream\bin\Debug\MovingAverageDataStream.exe
+C:\GitHub\Algorithms\Algorithms\Queues\MovingAverageDataStream\bin\Debug\MovingAverageDataStream.pdb
+C:\GitHub\Algorithms\Algorithms\Queues\MovingAverageDataStream\obj\Debug\MovingAverageDataStream.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Queues\MovingAverageDataStream\obj\Debug\MovingAverageDataStream.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Queues\MovingAverageDataStream\obj\Debug\MovingAverageDataStream.exe
+C:\GitHub\Algorithms\Algorithms\Queues\MovingAverageDataStream\obj\Debug\MovingAverageDataStream.pdb

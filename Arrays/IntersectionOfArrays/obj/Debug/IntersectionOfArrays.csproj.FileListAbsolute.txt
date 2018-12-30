@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\IntersectionOfArrays\bin\Debug\IntersectionOfArrays.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\IntersectionOfArrays\bin\Debug\IntersectionOfArrays.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\IntersectionOfArrays\bin\Debug\IntersectionOfArrays.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\IntersectionOfArrays\obj\Debug\IntersectionOfArrays.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\IntersectionOfArrays\obj\Debug\IntersectionOfArrays.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\IntersectionOfArrays\obj\Debug\IntersectionOfArrays.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\IntersectionOfArrays\obj\Debug\IntersectionOfArrays.pdb

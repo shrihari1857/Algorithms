@@ -30,7 +30,7 @@ namespace AhoCorasick
             foreach (DictionaryEntry result in results)
                 foreach (var item in (List<int>)result.Value)
                     Console.WriteLine($"{result.Key} found at {item}");
-                
+
             Console.ReadLine();
         }
 
@@ -39,7 +39,7 @@ namespace AhoCorasick
             var currentNode = tries;
             var i = 0;
             var matches = new Hashtable();
-            
+
             //run each char of text through the trie
             while (i < text.Length)
             {
@@ -47,7 +47,7 @@ namespace AhoCorasick
                 if (currentNode.Children.ContainsKey(text[i].ToString()))
                 {
                     var node = (Trie)currentNode.Children[text[i].ToString()];
-                    currentNode = node; 
+                    currentNode = node;
                     if (node.Output.Any())  //if there exists an output, add to Matches Hashtable
                     {
                         foreach (var o in node.Output)
@@ -61,8 +61,8 @@ namespace AhoCorasick
 
                             matches[o] = list;
                         }
-                        
-                         i++;
+
+                        i++;
                     }
                     else
                         i++;
@@ -97,7 +97,7 @@ namespace AhoCorasick
                 {
                     var failNode = node.FailedLink;
                     //IMPORTANT - check if the currentNode's char is eqaul to parent's fail node - closest ancestor
-                    foreach (DictionaryEntry child in node.Children)    
+                    foreach (DictionaryEntry child in node.Children)
                     {
                         var s = (Trie)child.Value;
                         if (failNode.Children.ContainsKey(s.CurrentChar))
@@ -143,7 +143,7 @@ namespace AhoCorasick
                     var output = new List<string>();
 
                     if (i == (pattern.Length - 1))  //if it is a leaf, all the pattern to the new child
-                        output.Add(pattern);    
+                        output.Add(pattern);
 
                     //add new child with output
                     var newChild = new Trie
@@ -154,7 +154,7 @@ namespace AhoCorasick
                     currentNode.Children[pattern[i].ToString()] = newChild;
                     currentNode = (Trie)currentNode.Children[pattern[i].ToString()];    // let the new node be the currentNode
                     i++;    //move on the next char
-                    
+
                 }
             }
             return root;

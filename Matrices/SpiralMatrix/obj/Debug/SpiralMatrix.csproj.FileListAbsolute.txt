@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Matrices\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+C:\GitHub\Algorithms\Algorithms\Matrices\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+C:\GitHub\Algorithms\Algorithms\Matrices\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+C:\GitHub\Algorithms\Algorithms\Matrices\SpiralMatrix\obj\Debug\SpiralMatrix.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Matrices\SpiralMatrix\obj\Debug\SpiralMatrix.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Matrices\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+C:\GitHub\Algorithms\Algorithms\Matrices\SpiralMatrix\obj\Debug\SpiralMatrix.pdb

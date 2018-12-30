@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\bin\Debug\RotateArray.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\bin\Debug\RotateArray.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\bin\Debug\RotateArray.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\obj\Debug\RotateArray.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\obj\Debug\RotateArray.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\obj\Debug\RotateArray.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\obj\Debug\RotateArray.pdb

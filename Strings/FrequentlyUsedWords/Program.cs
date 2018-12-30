@@ -19,7 +19,7 @@ namespace FrequentlyUsedWords
             var puncsAndSpace = new List<string> { " ", ".", ",", "?", "!", "'", ":", ";", "...", "-" };
             var exclusionList = new List<string> { "and", "he", "the", "to", "is", "Jack", "Jill" };
             var allAphas = new List<string> { "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "h", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z" };
-            var text = "Jack and Jill went to the market to buy bread and cheese Cheese is Jack's and Jill's favourite food.";
+            var text = "Jack and Jill went went to the market to buy bread and cheese Cheese is Jack's and Jill's favourite food.";
 
             foreach (var item in puncsAndSpace)
                 hashPuncs[item] = item;

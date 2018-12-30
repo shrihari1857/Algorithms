@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Queues\NumberOfIslands2\bin\Debug\NumberOfIslands2.exe.config
+C:\GitHub\Algorithms\Algorithms\Queues\NumberOfIslands2\bin\Debug\NumberOfIslands2.exe
+C:\GitHub\Algorithms\Algorithms\Queues\NumberOfIslands2\bin\Debug\NumberOfIslands2.pdb
+C:\GitHub\Algorithms\Algorithms\Queues\NumberOfIslands2\obj\Debug\NumberOfIslands2.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Queues\NumberOfIslands2\obj\Debug\NumberOfIslands2.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Queues\NumberOfIslands2\obj\Debug\NumberOfIslands2.exe
+C:\GitHub\Algorithms\Algorithms\Queues\NumberOfIslands2\obj\Debug\NumberOfIslands2.pdb

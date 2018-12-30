@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays.csproj", "{025DC66E-4C20-4940-A9C8-1E7765C246F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairInSortedRotated", "..\PairInSortedRotated\PairInSortedRotated.csproj", "{BAE43AD9-3C1F-44D6-8D18-25F768467F81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{025DC66E-4C20-4940-A9C8-1E7765C246F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025DC66E-4C20-4940-A9C8-1E7765C246F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025DC66E-4C20-4940-A9C8-1E7765C246F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025DC66E-4C20-4940-A9C8-1E7765C246F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAE43AD9-3C1F-44D6-8D18-25F768467F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE43AD9-3C1F-44D6-8D18-25F768467F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE43AD9-3C1F-44D6-8D18-25F768467F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE43AD9-3C1F-44D6-8D18-25F768467F81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D65457A-6128-4097-B9F4-CD32371EA25A}
+	EndGlobalSection
+EndGlobal

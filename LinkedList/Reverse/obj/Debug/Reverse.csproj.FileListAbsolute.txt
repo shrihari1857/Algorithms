@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\LinkedList\Reverse\bin\Debug\Reverse.exe.config
+C:\GitHub\Algorithms\Algorithms\LinkedList\Reverse\bin\Debug\Reverse.exe
+C:\GitHub\Algorithms\Algorithms\LinkedList\Reverse\bin\Debug\Reverse.pdb
+C:\GitHub\Algorithms\Algorithms\LinkedList\Reverse\obj\Debug\Reverse.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\LinkedList\Reverse\obj\Debug\Reverse.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\LinkedList\Reverse\obj\Debug\Reverse.exe
+C:\GitHub\Algorithms\Algorithms\LinkedList\Reverse\obj\Debug\Reverse.pdb

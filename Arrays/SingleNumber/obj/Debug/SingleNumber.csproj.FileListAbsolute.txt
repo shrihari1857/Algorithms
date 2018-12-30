@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\SingleNumber\bin\Debug\SingleNumber.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\SingleNumber\bin\Debug\SingleNumber.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\SingleNumber\bin\Debug\SingleNumber.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\SingleNumber\obj\Debug\SingleNumber.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\SingleNumber\obj\Debug\SingleNumber.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\SingleNumber\obj\Debug\SingleNumber.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\SingleNumber\obj\Debug\SingleNumber.pdb

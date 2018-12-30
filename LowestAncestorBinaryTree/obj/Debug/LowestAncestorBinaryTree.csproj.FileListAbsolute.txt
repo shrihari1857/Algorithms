@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\LowestAncestorBinaryTree\bin\Debug\LowestAncestorBinaryTree.exe.config
+C:\GitHub\Algorithms\Algorithms\LowestAncestorBinaryTree\bin\Debug\LowestAncestorBinaryTree.exe
+C:\GitHub\Algorithms\Algorithms\LowestAncestorBinaryTree\bin\Debug\LowestAncestorBinaryTree.pdb
+C:\GitHub\Algorithms\Algorithms\LowestAncestorBinaryTree\obj\Debug\LowestAncestorBinaryTree.csprojResolveAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\LowestAncestorBinaryTree\obj\Debug\LowestAncestorBinaryTree.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\LowestAncestorBinaryTree\obj\Debug\LowestAncestorBinaryTree.exe
+C:\GitHub\Algorithms\Algorithms\LowestAncestorBinaryTree\obj\Debug\LowestAncestorBinaryTree.pdb

@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Strings\CountAndSay\bin\Debug\CountAndSay.exe.config
+C:\GitHub\Algorithms\Algorithms\Strings\CountAndSay\bin\Debug\CountAndSay.exe
+C:\GitHub\Algorithms\Algorithms\Strings\CountAndSay\bin\Debug\CountAndSay.pdb
+C:\GitHub\Algorithms\Algorithms\Strings\CountAndSay\obj\Debug\CountAndSay.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Strings\CountAndSay\obj\Debug\CountAndSay.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Strings\CountAndSay\obj\Debug\CountAndSay.exe
+C:\GitHub\Algorithms\Algorithms\Strings\CountAndSay\obj\Debug\CountAndSay.pdb

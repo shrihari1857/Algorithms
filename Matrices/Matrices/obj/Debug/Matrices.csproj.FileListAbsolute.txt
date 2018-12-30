@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Matrices\Matrices\bin\Debug\Matrices.exe.config
+C:\GitHub\Algorithms\Algorithms\Matrices\Matrices\bin\Debug\Matrices.exe
+C:\GitHub\Algorithms\Algorithms\Matrices\Matrices\bin\Debug\Matrices.pdb
+C:\GitHub\Algorithms\Algorithms\Matrices\Matrices\obj\Debug\Matrices.csprojResolveAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Matrices\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Matrices\Matrices\obj\Debug\Matrices.exe
+C:\GitHub\Algorithms\Algorithms\Matrices\Matrices\obj\Debug\Matrices.pdb

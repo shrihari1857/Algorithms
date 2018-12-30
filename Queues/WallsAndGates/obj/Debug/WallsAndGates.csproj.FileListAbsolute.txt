@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Queues\WallsAndGates\bin\Debug\WallsAndGates.exe.config
+C:\GitHub\Algorithms\Algorithms\Queues\WallsAndGates\bin\Debug\WallsAndGates.exe
+C:\GitHub\Algorithms\Algorithms\Queues\WallsAndGates\bin\Debug\WallsAndGates.pdb
+C:\GitHub\Algorithms\Algorithms\Queues\WallsAndGates\obj\Debug\WallsAndGates.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Queues\WallsAndGates\obj\Debug\WallsAndGates.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Queues\WallsAndGates\obj\Debug\WallsAndGates.exe
+C:\GitHub\Algorithms\Algorithms\Queues\WallsAndGates\obj\Debug\WallsAndGates.pdb

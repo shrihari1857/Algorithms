@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\LinkedList\RemoveNthFromEnd\bin\Debug\RemoveNthFromEnd.exe.config
+C:\GitHub\Algorithms\Algorithms\LinkedList\RemoveNthFromEnd\bin\Debug\RemoveNthFromEnd.exe
+C:\GitHub\Algorithms\Algorithms\LinkedList\RemoveNthFromEnd\bin\Debug\RemoveNthFromEnd.pdb
+C:\GitHub\Algorithms\Algorithms\LinkedList\RemoveNthFromEnd\obj\Debug\RemoveNthFromEnd.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\LinkedList\RemoveNthFromEnd\obj\Debug\RemoveNthFromEnd.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\LinkedList\RemoveNthFromEnd\obj\Debug\RemoveNthFromEnd.exe
+C:\GitHub\Algorithms\Algorithms\LinkedList\RemoveNthFromEnd\obj\Debug\RemoveNthFromEnd.pdb

@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Strings\ReverseString\bin\Debug\ReverseString.exe.config
+C:\GitHub\Algorithms\Algorithms\Strings\ReverseString\bin\Debug\ReverseString.exe
+C:\GitHub\Algorithms\Algorithms\Strings\ReverseString\bin\Debug\ReverseString.pdb
+C:\GitHub\Algorithms\Algorithms\Strings\ReverseString\obj\Debug\ReverseString.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Strings\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Strings\ReverseString\obj\Debug\ReverseString.exe
+C:\GitHub\Algorithms\Algorithms\Strings\ReverseString\obj\Debug\ReverseString.pdb

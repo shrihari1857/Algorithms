@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Strings\NeedleHaystack\bin\Debug\NeedleHaystack.exe.config
+C:\GitHub\Algorithms\Algorithms\Strings\NeedleHaystack\bin\Debug\NeedleHaystack.exe
+C:\GitHub\Algorithms\Algorithms\Strings\NeedleHaystack\bin\Debug\NeedleHaystack.pdb
+C:\GitHub\Algorithms\Algorithms\Strings\NeedleHaystack\obj\Debug\NeedleHaystack.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Strings\NeedleHaystack\obj\Debug\NeedleHaystack.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Strings\NeedleHaystack\obj\Debug\NeedleHaystack.exe
+C:\GitHub\Algorithms\Algorithms\Strings\NeedleHaystack\obj\Debug\NeedleHaystack.pdb

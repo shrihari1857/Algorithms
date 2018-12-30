@@ -1,7 +1,7 @@
 C:\GitHub\Algorithms\Algorithms\Strings\FrequentlyUsedWords\bin\Debug\FrequentlyUsedWords.exe.config
 C:\GitHub\Algorithms\Algorithms\Strings\FrequentlyUsedWords\bin\Debug\FrequentlyUsedWords.exe
 C:\GitHub\Algorithms\Algorithms\Strings\FrequentlyUsedWords\bin\Debug\FrequentlyUsedWords.pdb
-C:\GitHub\Algorithms\Algorithms\Strings\FrequentlyUsedWords\obj\Debug\FrequentlyUsedWords.csprojResolveAssemblyReference.cache
 C:\GitHub\Algorithms\Algorithms\Strings\FrequentlyUsedWords\obj\Debug\FrequentlyUsedWords.csproj.CoreCompileInputs.cache
 C:\GitHub\Algorithms\Algorithms\Strings\FrequentlyUsedWords\obj\Debug\FrequentlyUsedWords.exe
 C:\GitHub\Algorithms\Algorithms\Strings\FrequentlyUsedWords\obj\Debug\FrequentlyUsedWords.pdb
+C:\GitHub\Algorithms\Algorithms\Strings\FrequentlyUsedWords\obj\Debug\FrequentlyUsedWords.csprojAssemblyReference.cache

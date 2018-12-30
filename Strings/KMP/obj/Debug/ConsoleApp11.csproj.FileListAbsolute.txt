@@ -8,7 +8,7 @@ c:\users\shallur\source\repos\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
 C:\GitHub\Algorithms\Algorithms\Strings\KMP\bin\Debug\ConsoleApp11.exe.config
 C:\GitHub\Algorithms\Algorithms\Strings\KMP\bin\Debug\ConsoleApp11.exe
 C:\GitHub\Algorithms\Algorithms\Strings\KMP\bin\Debug\ConsoleApp11.pdb
-C:\GitHub\Algorithms\Algorithms\Strings\KMP\obj\Debug\ConsoleApp11.csprojResolveAssemblyReference.cache
 C:\GitHub\Algorithms\Algorithms\Strings\KMP\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
 C:\GitHub\Algorithms\Algorithms\Strings\KMP\obj\Debug\ConsoleApp11.exe
 C:\GitHub\Algorithms\Algorithms\Strings\KMP\obj\Debug\ConsoleApp11.pdb
+C:\GitHub\Algorithms\Algorithms\Strings\KMP\obj\Debug\ConsoleApp11.csprojAssemblyReference.cache

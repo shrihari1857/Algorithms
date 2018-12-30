@@ -1,7 +1,7 @@
 C:\GitHub\Algorithms\Algorithms\Strings\AhoCorasick\bin\Debug\AhoCorasick.exe.config
 C:\GitHub\Algorithms\Algorithms\Strings\AhoCorasick\bin\Debug\AhoCorasick.exe
 C:\GitHub\Algorithms\Algorithms\Strings\AhoCorasick\bin\Debug\AhoCorasick.pdb
-C:\GitHub\Algorithms\Algorithms\Strings\AhoCorasick\obj\Debug\AhoCorasick.csprojResolveAssemblyReference.cache
 C:\GitHub\Algorithms\Algorithms\Strings\AhoCorasick\obj\Debug\AhoCorasick.csproj.CoreCompileInputs.cache
 C:\GitHub\Algorithms\Algorithms\Strings\AhoCorasick\obj\Debug\AhoCorasick.exe
 C:\GitHub\Algorithms\Algorithms\Strings\AhoCorasick\obj\Debug\AhoCorasick.pdb
+C:\GitHub\Algorithms\Algorithms\Strings\AhoCorasick\obj\Debug\AhoCorasick.csprojAssemblyReference.cache

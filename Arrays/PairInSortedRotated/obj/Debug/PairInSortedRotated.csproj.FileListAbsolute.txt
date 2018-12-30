@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\PairInSortedRotated\bin\Debug\PairInSortedRotated.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\PairInSortedRotated\bin\Debug\PairInSortedRotated.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\PairInSortedRotated\bin\Debug\PairInSortedRotated.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\PairInSortedRotated\obj\Debug\PairInSortedRotated.csprojResolveAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\PairInSortedRotated\obj\Debug\PairInSortedRotated.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\PairInSortedRotated\obj\Debug\PairInSortedRotated.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\PairInSortedRotated\obj\Debug\PairInSortedRotated.pdb

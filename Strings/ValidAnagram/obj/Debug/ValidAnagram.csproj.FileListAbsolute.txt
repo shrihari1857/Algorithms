@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Strings\ValidAnagram\bin\Debug\ValidAnagram.exe.config
+C:\GitHub\Algorithms\Algorithms\Strings\ValidAnagram\bin\Debug\ValidAnagram.exe
+C:\GitHub\Algorithms\Algorithms\Strings\ValidAnagram\bin\Debug\ValidAnagram.pdb
+C:\GitHub\Algorithms\Algorithms\Strings\ValidAnagram\obj\Debug\ValidAnagram.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Strings\ValidAnagram\obj\Debug\ValidAnagram.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Strings\ValidAnagram\obj\Debug\ValidAnagram.exe
+C:\GitHub\Algorithms\Algorithms\Strings\ValidAnagram\obj\Debug\ValidAnagram.pdb

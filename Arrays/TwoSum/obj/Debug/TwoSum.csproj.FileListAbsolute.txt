@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\TwoSum\bin\Debug\TwoSum.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\TwoSum\bin\Debug\TwoSum.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\TwoSum\bin\Debug\TwoSum.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\TwoSum\obj\Debug\TwoSum.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\TwoSum\obj\Debug\TwoSum.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\TwoSum\obj\Debug\TwoSum.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\TwoSum\obj\Debug\TwoSum.csprojAssemblyReference.cache

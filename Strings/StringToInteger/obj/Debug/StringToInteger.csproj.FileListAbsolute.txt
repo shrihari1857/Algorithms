@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Strings\StringToInteger\bin\Debug\StringToInteger.exe.config
+C:\GitHub\Algorithms\Algorithms\Strings\StringToInteger\bin\Debug\StringToInteger.exe
+C:\GitHub\Algorithms\Algorithms\Strings\StringToInteger\bin\Debug\StringToInteger.pdb
+C:\GitHub\Algorithms\Algorithms\Strings\StringToInteger\obj\Debug\StringToInteger.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Strings\StringToInteger\obj\Debug\StringToInteger.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Strings\StringToInteger\obj\Debug\StringToInteger.exe
+C:\GitHub\Algorithms\Algorithms\Strings\StringToInteger\obj\Debug\StringToInteger.pdb

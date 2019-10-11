@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\WordSearchIIMicrosoft\bin\Debug\WordSearchIIMicrosoft.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\WordSearchIIMicrosoft\bin\Debug\WordSearchIIMicrosoft.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\WordSearchIIMicrosoft\bin\Debug\WordSearchIIMicrosoft.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\WordSearchIIMicrosoft\obj\Debug\WordSearchIIMicrosoft.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\WordSearchIIMicrosoft\obj\Debug\WordSearchIIMicrosoft.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\WordSearchIIMicrosoft\obj\Debug\WordSearchIIMicrosoft.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\WordSearchIIMicrosoft\obj\Debug\WordSearchIIMicrosoft.pdb

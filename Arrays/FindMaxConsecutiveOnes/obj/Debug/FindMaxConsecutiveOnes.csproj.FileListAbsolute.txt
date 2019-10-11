@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\FindMaxConsecutiveOnes\bin\Debug\FindMaxConsecutiveOnes.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\FindMaxConsecutiveOnes\bin\Debug\FindMaxConsecutiveOnes.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\FindMaxConsecutiveOnes\bin\Debug\FindMaxConsecutiveOnes.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\FindMaxConsecutiveOnes\obj\Debug\FindMaxConsecutiveOnes.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\FindMaxConsecutiveOnes\obj\Debug\FindMaxConsecutiveOnes.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\FindMaxConsecutiveOnes\obj\Debug\FindMaxConsecutiveOnes.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\FindMaxConsecutiveOnes\obj\Debug\FindMaxConsecutiveOnes.pdb

@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\WordSquare\bin\Debug\WordSquare.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\WordSquare\bin\Debug\WordSquare.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\WordSquare\bin\Debug\WordSquare.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\WordSquare\obj\Debug\WordSquare.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\WordSquare\obj\Debug\WordSquare.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\WordSquare\obj\Debug\WordSquare.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\WordSquare\obj\Debug\WordSquare.pdb

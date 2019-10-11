@@ -10,8 +10,8 @@ namespace CountAndSay
     {
         static void Main(string[] args)
         {
-            string s = "30";
-            int n = 5;
+            string s = "1";
+            int n = 4;
             var chars = s.ToCharArray();
             int len = 0;
             StringBuilder builder;

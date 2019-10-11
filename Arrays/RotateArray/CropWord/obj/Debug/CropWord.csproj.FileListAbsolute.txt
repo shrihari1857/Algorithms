@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\CropWord\bin\Debug\CropWord.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\CropWord\bin\Debug\CropWord.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\CropWord\bin\Debug\CropWord.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\CropWord\obj\Debug\CropWord.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\CropWord\obj\Debug\CropWord.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\CropWord\obj\Debug\CropWord.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\CropWord\obj\Debug\CropWord.pdb

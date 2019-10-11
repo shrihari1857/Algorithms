@@ -50,6 +50,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\DijkstraCSharp\DijkstraCSharp.csproj">
+      <Project>{0B3C0046-85B6-4204-A906-8F6025722888}</Project>
+      <Name>DijkstraCSharp</Name>
+    </ProjectReference>
     <ProjectReference Include="..\GraphTheory\GraphTheory.csproj">
       <Project>{959d0524-bf35-4ed4-aac6-3d1284befa8e}</Project>
       <Name>GraphTheory</Name>

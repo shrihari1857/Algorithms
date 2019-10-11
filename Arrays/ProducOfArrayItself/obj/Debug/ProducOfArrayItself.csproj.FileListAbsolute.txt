@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\ProducOfArrayItself\bin\Debug\ProducOfArrayItself.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\ProducOfArrayItself\bin\Debug\ProducOfArrayItself.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\ProducOfArrayItself\bin\Debug\ProducOfArrayItself.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\ProducOfArrayItself\obj\Debug\ProducOfArrayItself.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\ProducOfArrayItself\obj\Debug\ProducOfArrayItself.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\ProducOfArrayItself\obj\Debug\ProducOfArrayItself.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\ProducOfArrayItself\obj\Debug\ProducOfArrayItself.pdb

@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\AmazonSubsetProblem\bin\Debug\AmazonSubsetProblem.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\AmazonSubsetProblem\bin\Debug\AmazonSubsetProblem.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\AmazonSubsetProblem\bin\Debug\AmazonSubsetProblem.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\AmazonSubsetProblem\obj\Debug\AmazonSubsetProblem.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\AmazonSubsetProblem\obj\Debug\AmazonSubsetProblem.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\AmazonSubsetProblem\obj\Debug\AmazonSubsetProblem.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\AmazonSubsetProblem\obj\Debug\AmazonSubsetProblem.pdb

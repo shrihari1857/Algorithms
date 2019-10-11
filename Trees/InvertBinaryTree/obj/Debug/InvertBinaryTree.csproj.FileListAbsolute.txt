@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Trees\InvertBinaryTree\obj\Debug\InvertBinaryTree.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Trees\InvertBinaryTree\obj\Debug\InvertBinaryTree.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Trees\InvertBinaryTree\bin\Debug\InvertBinaryTree.exe.config
+C:\GitHub\Algorithms\Algorithms\Trees\InvertBinaryTree\bin\Debug\InvertBinaryTree.exe
+C:\GitHub\Algorithms\Algorithms\Trees\InvertBinaryTree\bin\Debug\InvertBinaryTree.pdb
+C:\GitHub\Algorithms\Algorithms\Trees\InvertBinaryTree\obj\Debug\InvertBinaryTree.exe
+C:\GitHub\Algorithms\Algorithms\Trees\InvertBinaryTree\obj\Debug\InvertBinaryTree.pdb

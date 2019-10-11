@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Trees\SplayTree2\bin\Debug\SplayTree2.exe.config
+C:\GitHub\Algorithms\Algorithms\Trees\SplayTree2\bin\Debug\SplayTree2.exe
+C:\GitHub\Algorithms\Algorithms\Trees\SplayTree2\bin\Debug\SplayTree2.pdb
+C:\GitHub\Algorithms\Algorithms\Trees\SplayTree2\obj\Debug\SplayTree2.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Trees\SplayTree2\obj\Debug\SplayTree2.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Trees\SplayTree2\obj\Debug\SplayTree2.exe
+C:\GitHub\Algorithms\Algorithms\Trees\SplayTree2\obj\Debug\SplayTree2.pdb

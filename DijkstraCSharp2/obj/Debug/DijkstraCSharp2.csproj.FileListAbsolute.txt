@@ -6,3 +6,14 @@ C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\Dijk
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp2\obj\Debug\DijkstraCSharp2.csprojResolveAssemblyReference.cache
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp2\obj\Debug\DijkstraCSharp2.exe
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp2\obj\Debug\DijkstraCSharp2.pdb
+C:\GitHub\Algorithms\Algorithms\DijkstraCSharp2\bin\Debug\DijkstraCSharp2.exe.config
+C:\GitHub\Algorithms\Algorithms\DijkstraCSharp2\bin\Debug\DijkstraCSharp2.exe
+C:\GitHub\Algorithms\Algorithms\DijkstraCSharp2\bin\Debug\DijkstraCSharp2.pdb
+C:\GitHub\Algorithms\Algorithms\DijkstraCSharp2\bin\Debug\GraphTheory.exe
+C:\GitHub\Algorithms\Algorithms\DijkstraCSharp2\bin\Debug\GraphTheory.pdb
+C:\GitHub\Algorithms\Algorithms\DijkstraCSharp2\bin\Debug\GraphTheory.exe.config
+C:\GitHub\Algorithms\Algorithms\DijkstraCSharp2\obj\Debug\DijkstraCSharp2.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\DijkstraCSharp2\obj\Debug\DijkstraCSharp2.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\DijkstraCSharp2\obj\Debug\DijkstraCSharp2.csproj.CopyComplete
+C:\GitHub\Algorithms\Algorithms\DijkstraCSharp2\obj\Debug\DijkstraCSharp2.exe
+C:\GitHub\Algorithms\Algorithms\DijkstraCSharp2\obj\Debug\DijkstraCSharp2.pdb

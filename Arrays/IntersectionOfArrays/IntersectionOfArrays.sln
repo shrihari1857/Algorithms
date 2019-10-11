@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfArrays", "IntersectionOfArrays.csproj", "{E91E2F07-2B4C-4B88-AC61-EC9C79DB32A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertSort", "..\..\Sorting\InsertSort\InsertSort.csproj", "{0C286B31-2366-44A1-9470-926FD07569C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E91E2F07-2B4C-4B88-AC61-EC9C79DB32A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E91E2F07-2B4C-4B88-AC61-EC9C79DB32A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E91E2F07-2B4C-4B88-AC61-EC9C79DB32A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C286B31-2366-44A1-9470-926FD07569C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C286B31-2366-44A1-9470-926FD07569C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C286B31-2366-44A1-9470-926FD07569C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C286B31-2366-44A1-9470-926FD07569C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

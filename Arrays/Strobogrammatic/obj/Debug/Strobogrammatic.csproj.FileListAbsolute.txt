@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\Strobogrammatic\obj\Debug\Strobogrammatic.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\Strobogrammatic\obj\Debug\Strobogrammatic.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\Strobogrammatic\bin\Debug\Strobogrammatic.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\Strobogrammatic\bin\Debug\Strobogrammatic.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\Strobogrammatic\bin\Debug\Strobogrammatic.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\Strobogrammatic\obj\Debug\Strobogrammatic.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\Strobogrammatic\obj\Debug\Strobogrammatic.pdb

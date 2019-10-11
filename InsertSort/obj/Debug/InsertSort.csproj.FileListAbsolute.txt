@@ -4,3 +4,10 @@ C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\Inse
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\InsertSort\obj\Debug\InsertSort.exe
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\InsertSort\obj\Debug\InsertSort.pdb
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\InsertSort\obj\Debug\InsertSort.csprojResolveAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\InsertSort\bin\Debug\InsertSort.exe.config
+C:\GitHub\Algorithms\Algorithms\InsertSort\bin\Debug\InsertSort.exe
+C:\GitHub\Algorithms\Algorithms\InsertSort\bin\Debug\InsertSort.pdb
+C:\GitHub\Algorithms\Algorithms\InsertSort\obj\Debug\InsertSort.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\InsertSort\obj\Debug\InsertSort.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\InsertSort\obj\Debug\InsertSort.exe
+C:\GitHub\Algorithms\Algorithms\InsertSort\obj\Debug\InsertSort.pdb

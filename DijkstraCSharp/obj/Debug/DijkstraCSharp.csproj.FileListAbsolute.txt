@@ -4,3 +4,10 @@ C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\Dijk
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp\obj\Debug\DijkstraCSharp.csprojResolveAssemblyReference.cache
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp\obj\Debug\DijkstraCSharp.exe
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\DijkstraCSharp\obj\Debug\DijkstraCSharp.pdb
+C:\GitHub\Algorithms\Algorithms\DijkstraCSharp\bin\Debug\DijkstraCSharp.exe.config
+C:\GitHub\Algorithms\Algorithms\DijkstraCSharp\bin\Debug\DijkstraCSharp.exe
+C:\GitHub\Algorithms\Algorithms\DijkstraCSharp\bin\Debug\DijkstraCSharp.pdb
+C:\GitHub\Algorithms\Algorithms\DijkstraCSharp\obj\Debug\DijkstraCSharp.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\DijkstraCSharp\obj\Debug\DijkstraCSharp.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\DijkstraCSharp\obj\Debug\DijkstraCSharp.exe
+C:\GitHub\Algorithms\Algorithms\DijkstraCSharp\obj\Debug\DijkstraCSharp.pdb

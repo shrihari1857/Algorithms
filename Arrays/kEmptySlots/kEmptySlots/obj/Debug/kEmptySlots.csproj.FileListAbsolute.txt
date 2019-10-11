@@ -1,0 +1,6 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\kEmptySlots\kEmptySlots\bin\Debug\kEmptySlots.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\kEmptySlots\kEmptySlots\bin\Debug\kEmptySlots.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\kEmptySlots\kEmptySlots\bin\Debug\kEmptySlots.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\kEmptySlots\kEmptySlots\obj\Debug\kEmptySlots.csprojResolveAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\kEmptySlots\kEmptySlots\obj\Debug\kEmptySlots.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\kEmptySlots\kEmptySlots\obj\Debug\kEmptySlots.pdb

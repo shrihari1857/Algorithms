@@ -1,4 +1,5 @@
-﻿using GraphTheory;
+﻿using DijkstraCSharp;
+//using GraphTheory;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,7 +28,7 @@ namespace TopologicalSort
 
             public void Sort()
             {
-                var graph = new Graph(true);
+                var graph = new Graph();
                 graph.AddEdge("A", "C", 0);
                 graph.AddEdge("B", "C", 0);
                 graph.AddEdge("B", "E", 0);

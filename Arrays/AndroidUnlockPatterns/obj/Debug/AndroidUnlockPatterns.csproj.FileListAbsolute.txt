@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\AndroidUnlockPatterns\bin\Debug\AndroidUnlockPatterns.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\AndroidUnlockPatterns\bin\Debug\AndroidUnlockPatterns.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\AndroidUnlockPatterns\bin\Debug\AndroidUnlockPatterns.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\AndroidUnlockPatterns\obj\Debug\AndroidUnlockPatterns.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\AndroidUnlockPatterns\obj\Debug\AndroidUnlockPatterns.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\AndroidUnlockPatterns\obj\Debug\AndroidUnlockPatterns.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\AndroidUnlockPatterns\obj\Debug\AndroidUnlockPatterns.pdb

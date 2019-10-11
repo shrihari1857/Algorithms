@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\AmazonFresh\bin\Debug\AmazonFresh.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\AmazonFresh\bin\Debug\AmazonFresh.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\AmazonFresh\bin\Debug\AmazonFresh.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\AmazonFresh\obj\Debug\AmazonFresh.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\AmazonFresh\obj\Debug\AmazonFresh.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\AmazonFresh\obj\Debug\AmazonFresh.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\AmazonFresh\obj\Debug\AmazonFresh.pdb

@@ -4,3 +4,10 @@ C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\Quic
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\QuickSort\obj\Debug\QuickSort.exe
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\QuickSort\obj\Debug\QuickSort.pdb
+C:\GitHub\Algorithms\Algorithms\Sorting\QuickSort\bin\Debug\QuickSort.exe.config
+C:\GitHub\Algorithms\Algorithms\Sorting\QuickSort\bin\Debug\QuickSort.exe
+C:\GitHub\Algorithms\Algorithms\Sorting\QuickSort\bin\Debug\QuickSort.pdb
+C:\GitHub\Algorithms\Algorithms\Sorting\QuickSort\obj\Debug\QuickSort.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Sorting\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Sorting\QuickSort\obj\Debug\QuickSort.exe
+C:\GitHub\Algorithms\Algorithms\Sorting\QuickSort\obj\Debug\QuickSort.pdb

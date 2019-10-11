@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\BinaryTrees\IterativePreOrderTraversal\bin\Debug\IterativePreOrderTraversal.exe.config
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\BinaryTrees\IterativePreOrderTraversal\bin\Debug\IterativePreOrderTraversal.exe
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\BinaryTrees\IterativePreOrderTraversal\bin\Debug\IterativePreOrderTraversal.pdb
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\BinaryTrees\IterativePreOrderTraversal\obj\Debug\IterativePreOrderTraversal.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\BinaryTrees\IterativePreOrderTraversal\obj\Debug\IterativePreOrderTraversal.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\BinaryTrees\IterativePreOrderTraversal\obj\Debug\IterativePreOrderTraversal.exe
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\BinaryTrees\IterativePreOrderTraversal\obj\Debug\IterativePreOrderTraversal.pdb

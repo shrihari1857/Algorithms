@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\MinimumWindowSubstring\bin\Debug\MinimumWindowSubstring.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\MinimumWindowSubstring\bin\Debug\MinimumWindowSubstring.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\MinimumWindowSubstring\bin\Debug\MinimumWindowSubstring.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\MinimumWindowSubstring\obj\Debug\MinimumWindowSubstring.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\MinimumWindowSubstring\obj\Debug\MinimumWindowSubstring.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\MinimumWindowSubstring\obj\Debug\MinimumWindowSubstring.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\MinimumWindowSubstring\obj\Debug\MinimumWindowSubstring.pdb

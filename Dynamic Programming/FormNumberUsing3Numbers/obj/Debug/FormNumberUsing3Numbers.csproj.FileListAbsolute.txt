@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Dynamic Programming\FormNumberUsing3Numbers\bin\Debug\FormNumberUsing3Numbers.exe.config
+C:\GitHub\Algorithms\Algorithms\Dynamic Programming\FormNumberUsing3Numbers\bin\Debug\FormNumberUsing3Numbers.exe
+C:\GitHub\Algorithms\Algorithms\Dynamic Programming\FormNumberUsing3Numbers\bin\Debug\FormNumberUsing3Numbers.pdb
+C:\GitHub\Algorithms\Algorithms\Dynamic Programming\FormNumberUsing3Numbers\obj\Debug\FormNumberUsing3Numbers.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Dynamic Programming\FormNumberUsing3Numbers\obj\Debug\FormNumberUsing3Numbers.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Dynamic Programming\FormNumberUsing3Numbers\obj\Debug\FormNumberUsing3Numbers.exe
+C:\GitHub\Algorithms\Algorithms\Dynamic Programming\FormNumberUsing3Numbers\obj\Debug\FormNumberUsing3Numbers.pdb

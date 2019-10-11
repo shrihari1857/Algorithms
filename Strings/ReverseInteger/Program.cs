@@ -10,7 +10,7 @@ namespace ReverseInteger
     {
         static void Main(string[] args)
         {
-            int x = 120;
+            int x = 3423423;
             
             int i = 0;
             if (x < 0)

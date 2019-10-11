@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\IterativeInorderTraversal\bin\Debug\IterativeInorderTraversal.exe.config
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\IterativeInorderTraversal\bin\Debug\IterativeInorderTraversal.exe
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\IterativeInorderTraversal\bin\Debug\IterativeInorderTraversal.pdb
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\IterativeInorderTraversal\obj\Debug\IterativeInorderTraversal.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\IterativeInorderTraversal\obj\Debug\IterativeInorderTraversal.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\IterativeInorderTraversal\obj\Debug\IterativeInorderTraversal.exe
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\IterativeInorderTraversal\obj\Debug\IterativeInorderTraversal.pdb

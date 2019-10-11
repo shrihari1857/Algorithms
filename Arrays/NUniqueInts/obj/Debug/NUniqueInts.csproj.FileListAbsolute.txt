@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\NUniqueInts\bin\Debug\NUniqueInts.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\NUniqueInts\bin\Debug\NUniqueInts.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\NUniqueInts\bin\Debug\NUniqueInts.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\NUniqueInts\obj\Debug\NUniqueInts.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\NUniqueInts\obj\Debug\NUniqueInts.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\NUniqueInts\obj\Debug\NUniqueInts.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\NUniqueInts\obj\Debug\NUniqueInts.pdb

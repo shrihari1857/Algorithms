@@ -21,7 +21,7 @@ namespace MoveZeroes
                     {
                         nums[notzeroes] = nums[notzeroes] ^ nums[i];
                         nums[i] = nums[notzeroes] ^ nums[i];
-                        nums[notzeroes] = nums[notzeroes] ^ nums[i];
+                       // nums[notzeroes] = nums[notzeroes] ^ nums[i];
                     }
                     notzeroes += 1;
                 }

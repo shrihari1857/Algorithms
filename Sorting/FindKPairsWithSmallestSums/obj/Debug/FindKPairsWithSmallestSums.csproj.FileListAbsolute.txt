@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Sorting\FindKPairsWithSmallestSums\bin\Debug\FindKPairsWithSmallestSums.exe.config
+C:\GitHub\Algorithms\Algorithms\Sorting\FindKPairsWithSmallestSums\bin\Debug\FindKPairsWithSmallestSums.exe
+C:\GitHub\Algorithms\Algorithms\Sorting\FindKPairsWithSmallestSums\bin\Debug\FindKPairsWithSmallestSums.pdb
+C:\GitHub\Algorithms\Algorithms\Sorting\FindKPairsWithSmallestSums\obj\Debug\FindKPairsWithSmallestSums.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Sorting\FindKPairsWithSmallestSums\obj\Debug\FindKPairsWithSmallestSums.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Sorting\FindKPairsWithSmallestSums\obj\Debug\FindKPairsWithSmallestSums.exe
+C:\GitHub\Algorithms\Algorithms\Sorting\FindKPairsWithSmallestSums\obj\Debug\FindKPairsWithSmallestSums.pdb

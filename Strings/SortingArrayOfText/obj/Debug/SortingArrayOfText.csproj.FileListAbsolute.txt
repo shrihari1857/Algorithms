@@ -1,7 +1,7 @@
 C:\GitHub\Algorithms\Algorithms\Strings\SortingArrayOfText\bin\Debug\SortingArrayOfText.exe.config
 C:\GitHub\Algorithms\Algorithms\Strings\SortingArrayOfText\bin\Debug\SortingArrayOfText.exe
 C:\GitHub\Algorithms\Algorithms\Strings\SortingArrayOfText\bin\Debug\SortingArrayOfText.pdb
-C:\GitHub\Algorithms\Algorithms\Strings\SortingArrayOfText\obj\Debug\SortingArrayOfText.csprojResolveAssemblyReference.cache
 C:\GitHub\Algorithms\Algorithms\Strings\SortingArrayOfText\obj\Debug\SortingArrayOfText.csproj.CoreCompileInputs.cache
 C:\GitHub\Algorithms\Algorithms\Strings\SortingArrayOfText\obj\Debug\SortingArrayOfText.exe
 C:\GitHub\Algorithms\Algorithms\Strings\SortingArrayOfText\obj\Debug\SortingArrayOfText.pdb
+C:\GitHub\Algorithms\Algorithms\Strings\SortingArrayOfText\obj\Debug\SortingArrayOfText.csprojAssemblyReference.cache

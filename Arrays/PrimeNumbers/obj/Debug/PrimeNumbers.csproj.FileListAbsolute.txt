@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

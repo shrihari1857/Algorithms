@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Stack\ValidParenthesis\bin\Debug\ValidParenthesis.exe.config
+C:\GitHub\Algorithms\Algorithms\Stack\ValidParenthesis\bin\Debug\ValidParenthesis.exe
+C:\GitHub\Algorithms\Algorithms\Stack\ValidParenthesis\bin\Debug\ValidParenthesis.pdb
+C:\GitHub\Algorithms\Algorithms\Stack\ValidParenthesis\obj\Debug\ValidParenthesis.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Stack\ValidParenthesis\obj\Debug\ValidParenthesis.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Stack\ValidParenthesis\obj\Debug\ValidParenthesis.exe
+C:\GitHub\Algorithms\Algorithms\Stack\ValidParenthesis\obj\Debug\ValidParenthesis.pdb

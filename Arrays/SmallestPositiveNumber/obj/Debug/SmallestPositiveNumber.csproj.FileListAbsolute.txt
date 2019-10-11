@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\SmallestPositiveNumber\bin\Debug\SmallestPositiveNumber.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\SmallestPositiveNumber\bin\Debug\SmallestPositiveNumber.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\SmallestPositiveNumber\bin\Debug\SmallestPositiveNumber.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\SmallestPositiveNumber\obj\Debug\SmallestPositiveNumber.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\SmallestPositiveNumber\obj\Debug\SmallestPositiveNumber.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\SmallestPositiveNumber\obj\Debug\SmallestPositiveNumber.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\SmallestPositiveNumber\obj\Debug\SmallestPositiveNumber.pdb

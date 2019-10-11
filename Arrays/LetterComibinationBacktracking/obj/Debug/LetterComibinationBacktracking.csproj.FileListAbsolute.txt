@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\LetterComibinationBacktracking\bin\Debug\LetterComibinationBacktracking.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\LetterComibinationBacktracking\bin\Debug\LetterComibinationBacktracking.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\LetterComibinationBacktracking\bin\Debug\LetterComibinationBacktracking.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\LetterComibinationBacktracking\obj\Debug\LetterComibinationBacktracking.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\LetterComibinationBacktracking\obj\Debug\LetterComibinationBacktracking.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\LetterComibinationBacktracking\obj\Debug\LetterComibinationBacktracking.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\LetterComibinationBacktracking\obj\Debug\LetterComibinationBacktracking.pdb

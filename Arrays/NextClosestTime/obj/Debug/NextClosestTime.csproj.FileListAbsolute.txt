@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\NextClosestTime\bin\Debug\NextClosestTime.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\NextClosestTime\bin\Debug\NextClosestTime.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\NextClosestTime\bin\Debug\NextClosestTime.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\NextClosestTime\obj\Debug\NextClosestTime.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\NextClosestTime\obj\Debug\NextClosestTime.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\NextClosestTime\obj\Debug\NextClosestTime.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\NextClosestTime\obj\Debug\NextClosestTime.pdb

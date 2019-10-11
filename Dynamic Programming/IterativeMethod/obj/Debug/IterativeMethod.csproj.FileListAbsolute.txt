@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Dynamic Programming\IterativeMethod\bin\Debug\IterativeMethod.exe.config
+C:\GitHub\Algorithms\Algorithms\Dynamic Programming\IterativeMethod\bin\Debug\IterativeMethod.exe
+C:\GitHub\Algorithms\Algorithms\Dynamic Programming\IterativeMethod\bin\Debug\IterativeMethod.pdb
+C:\GitHub\Algorithms\Algorithms\Dynamic Programming\IterativeMethod\obj\Debug\IterativeMethod.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Dynamic Programming\IterativeMethod\obj\Debug\IterativeMethod.exe
+C:\GitHub\Algorithms\Algorithms\Dynamic Programming\IterativeMethod\obj\Debug\IterativeMethod.pdb
+C:\GitHub\Algorithms\Algorithms\Dynamic Programming\IterativeMethod\obj\Debug\IterativeMethod.csprojAssemblyReference.cache

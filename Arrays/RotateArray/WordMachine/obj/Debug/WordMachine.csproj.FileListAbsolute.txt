@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\WordMachine\bin\Debug\WordMachine.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\WordMachine\bin\Debug\WordMachine.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\WordMachine\bin\Debug\WordMachine.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\WordMachine\obj\Debug\WordMachine.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\WordMachine\obj\Debug\WordMachine.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\WordMachine\obj\Debug\WordMachine.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\RotateArray\WordMachine\obj\Debug\WordMachine.pdb

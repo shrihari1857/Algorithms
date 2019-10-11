@@ -26,7 +26,7 @@ namespace ArrayRemoveDuplicates
 
 
             //int[] nums = new int[] { 0, 0, 1, 1, 1, 2, 2, 3, 3, 4, 5, 7, 8, 633, 633, 700,700, 800, 899, 950 };
-            int[] nums = new int[] {1};
+            int[] nums = new int[] { 0, 0, 1, 1, 1, 2, 2, 3, 3, 4 };
             //var arr = new int[nums[nums.Length - 1]];
             //int count = 0;
             //for (int i = 0; i < nums.Length; i++)

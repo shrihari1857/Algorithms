@@ -4,3 +4,10 @@ C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\Find
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\FindRotationCount\obj\Debug\FindRotationCount.csprojResolveAssemblyReference.cache
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\FindRotationCount\obj\Debug\FindRotationCount.exe
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\FindRotationCount\obj\Debug\FindRotationCount.pdb
+C:\GitHub\Algorithms\Algorithms\FindRotationCount\bin\Debug\FindRotationCount.exe.config
+C:\GitHub\Algorithms\Algorithms\FindRotationCount\bin\Debug\FindRotationCount.exe
+C:\GitHub\Algorithms\Algorithms\FindRotationCount\bin\Debug\FindRotationCount.pdb
+C:\GitHub\Algorithms\Algorithms\FindRotationCount\obj\Debug\FindRotationCount.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\FindRotationCount\obj\Debug\FindRotationCount.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\FindRotationCount\obj\Debug\FindRotationCount.exe
+C:\GitHub\Algorithms\Algorithms\FindRotationCount\obj\Debug\FindRotationCount.pdb

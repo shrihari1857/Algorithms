@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\IntegerToWords\bin\Debug\IntegerToWords.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\IntegerToWords\bin\Debug\IntegerToWords.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\IntegerToWords\bin\Debug\IntegerToWords.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\IntegerToWords\obj\Debug\IntegerToWords.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\IntegerToWords\obj\Debug\IntegerToWords.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\IntegerToWords\obj\Debug\IntegerToWords.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\IntegerToWords\obj\Debug\IntegerToWords.pdb

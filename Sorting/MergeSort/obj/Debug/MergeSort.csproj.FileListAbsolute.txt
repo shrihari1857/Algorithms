@@ -4,3 +4,10 @@ C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\Merg
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\MergeSort\obj\Debug\MergeSort.exe
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\MergeSort\obj\Debug\MergeSort.pdb
+C:\GitHub\Algorithms\Algorithms\Sorting\MergeSort\bin\Debug\MergeSort.exe.config
+C:\GitHub\Algorithms\Algorithms\Sorting\MergeSort\bin\Debug\MergeSort.exe
+C:\GitHub\Algorithms\Algorithms\Sorting\MergeSort\bin\Debug\MergeSort.pdb
+C:\GitHub\Algorithms\Algorithms\Sorting\MergeSort\obj\Debug\MergeSort.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Sorting\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Sorting\MergeSort\obj\Debug\MergeSort.exe
+C:\GitHub\Algorithms\Algorithms\Sorting\MergeSort\obj\Debug\MergeSort.pdb

@@ -13,8 +13,8 @@ namespace StringToInteger
             //var str = "42";
             //var str = "   -42";
             //var str = "4193 with words";
-            //var str = "words and 987";
-            var str = "+-2";
+            var str = "words and 987";
+            //var str = "+-2";
 
             var sBuilder = new StringBuilder(str);
             var posMax = Int32.MaxValue;

@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\IterativePostOrderTraversal\bin\Debug\IterativePostOrderTraversal.exe.config
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\IterativePostOrderTraversal\bin\Debug\IterativePostOrderTraversal.exe
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\IterativePostOrderTraversal\bin\Debug\IterativePostOrderTraversal.pdb
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\IterativePostOrderTraversal\obj\Debug\IterativePostOrderTraversal.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\IterativePostOrderTraversal\obj\Debug\IterativePostOrderTraversal.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\IterativePostOrderTraversal\obj\Debug\IterativePostOrderTraversal.exe
+C:\GitHub\Algorithms\Algorithms\BinaryTrees\IterativePostOrderTraversal\obj\Debug\IterativePostOrderTraversal.pdb

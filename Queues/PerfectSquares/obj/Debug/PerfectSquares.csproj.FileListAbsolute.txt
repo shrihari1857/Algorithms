@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Queues\PerfectSquares\bin\Debug\PerfectSquares.exe.config
+C:\GitHub\Algorithms\Algorithms\Queues\PerfectSquares\bin\Debug\PerfectSquares.exe
+C:\GitHub\Algorithms\Algorithms\Queues\PerfectSquares\bin\Debug\PerfectSquares.pdb
+C:\GitHub\Algorithms\Algorithms\Queues\PerfectSquares\obj\Debug\PerfectSquares.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Queues\PerfectSquares\obj\Debug\PerfectSquares.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Queues\PerfectSquares\obj\Debug\PerfectSquares.exe
+C:\GitHub\Algorithms\Algorithms\Queues\PerfectSquares\obj\Debug\PerfectSquares.pdb

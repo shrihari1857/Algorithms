@@ -1,0 +1,7 @@
+C:\GitHub\Algorithms\Algorithms\Arrays\OneMoreSoln\obj\Debug\OneMoreSoln.csprojAssemblyReference.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\OneMoreSoln\obj\Debug\OneMoreSoln.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Arrays\OneMoreSoln\bin\Debug\OneMoreSoln.exe.config
+C:\GitHub\Algorithms\Algorithms\Arrays\OneMoreSoln\bin\Debug\OneMoreSoln.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\OneMoreSoln\bin\Debug\OneMoreSoln.pdb
+C:\GitHub\Algorithms\Algorithms\Arrays\OneMoreSoln\obj\Debug\OneMoreSoln.exe
+C:\GitHub\Algorithms\Algorithms\Arrays\OneMoreSoln\obj\Debug\OneMoreSoln.pdb

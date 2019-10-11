@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormNumberUsing3Numbers", "FormNumberUsing3Numbers.csproj", "{DC84E0B2-1F77-4D41-A504-C57931D350AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterativeMethod", "..\IterativeMethod\IterativeMethod.csproj", "{8AB36181-A832-451E-91C1-D2F17B7E636F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC84E0B2-1F77-4D41-A504-C57931D350AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC84E0B2-1F77-4D41-A504-C57931D350AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC84E0B2-1F77-4D41-A504-C57931D350AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC84E0B2-1F77-4D41-A504-C57931D350AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB36181-A832-451E-91C1-D2F17B7E636F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB36181-A832-451E-91C1-D2F17B7E636F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB36181-A832-451E-91C1-D2F17B7E636F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB36181-A832-451E-91C1-D2F17B7E636F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E3D9866-2211-4CCC-B3DA-EB4172541B46}
+	EndGlobalSection
+EndGlobal

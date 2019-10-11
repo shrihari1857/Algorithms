@@ -4,3 +4,9 @@ C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\Coun
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\CountingSort\obj\Debug\CountingSort.csprojResolveAssemblyReference.cache
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\CountingSort\obj\Debug\CountingSort.exe
 C:\Users\shallur\Documents\Visual Studio 2015\Projects\PythonNameThatRabbit\CountingSort\obj\Debug\CountingSort.pdb
+C:\GitHub\Algorithms\Algorithms\Sorting\CountingSort\bin\Debug\CountingSort.exe.config
+C:\GitHub\Algorithms\Algorithms\Sorting\CountingSort\bin\Debug\CountingSort.exe
+C:\GitHub\Algorithms\Algorithms\Sorting\CountingSort\bin\Debug\CountingSort.pdb
+C:\GitHub\Algorithms\Algorithms\Sorting\CountingSort\obj\Debug\CountingSort.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms\Algorithms\Sorting\CountingSort\obj\Debug\CountingSort.exe
+C:\GitHub\Algorithms\Algorithms\Sorting\CountingSort\obj\Debug\CountingSort.pdb

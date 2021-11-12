@@ -26,7 +26,7 @@ $JSON->convert_blessed(1);
 
 my $data_source = q/dbi:ODBC:localexpress/;
 my $user = q/shri_h/;
-my $password = q/shrihari@123/;
+my $password = q//;
 
 # Connect to the data source and get a handle for that connection.
 my $dbh = DBI->connect($data_source, $user, $password) 

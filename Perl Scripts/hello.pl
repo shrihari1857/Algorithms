@@ -5,10 +5,10 @@ package Hierarchy;
 sub new {
     my $class = shift;
     my $self = {
-        AccountId => shift,
-        SubAccountId => shift,
-        Enrolled => shift,
-        Proxy_Ballot => shift
+        Col1 => shift,
+        Col2 => shift,
+        Col3 => shift,
+        Col4 => shift
         }; 
     
     bless $self, $class;
@@ -17,11 +17,13 @@ sub new {
 }
 
 sub TO_JSON { return { %{ shift() } }; }
-package main;
+
+package main;
 use DBI;
 use JSON;
 use 5.010;
-my $JSON = JSON->new->utf8;
+
+my $JSON = JSON->new->utf8;
 $JSON->convert_blessed(1);
 
 my $data_source = q/dbi:ODBC:localexpress/;
@@ -31,10 +33,12 @@ my $password = q//;
 # Connect to the data source and get a handle for that connection.
 my $dbh = DBI->connect($data_source, $user, $password) 
     or die "Can't connect to $data_source: $DBI::errstr";
-    my $sth = $dbh->prepare("select * from Test.dbo.tbl");
+    
+my $sth = $dbh->prepare("select * from Test.dbo.tbl2");
 $sth->execute();
 
-my $fileName = 'C:\Documents\Hierarchy.json';
+
+my $fileName = 'C:\Documents\Hierarchy.json';
 open(my $fh, '>>', $fileName) or die "Could not open file";
 
 while ( my @row = $sth->fetchrow_array ) {
@@ -43,6 +47,8 @@ while ( my @row = $sth->fetchrow_array ) {
         #print "$json\n";
         say $fh $json;
 }
-close $fh
 
-
+close $fh
+
+
+
